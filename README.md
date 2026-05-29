@@ -31,7 +31,7 @@
 <li><strong>RAM:</strong> 8 GB or more (16 GB recommended)</li>
 <li><strong>GPU:</strong> DirectX 12 compatible (GTX 1060 or equivalent)</li>
 <li><strong>Disk Space:</strong> 150 MB for trainer</li>
-</ul>1
+</ul>
 <hr style="border-color:#222;margin:20px 0;">
 <div style="font-size:12px;color:#555;margin-top:24px;padding-top:12px;border-top:1px solid #222;">
 <strong>Tags:</strong> warzone trainer, warzone aim assist, warzone esp, warzone radar overlay, warzone unlock all, warzone mod menu, call of duty warzone assistance tool, warzone no recoil, warzone hwid spoofer, warzone free download 2026
